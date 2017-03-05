@@ -1,6 +1,6 @@
 {
   "name": "prequest-lite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "promised 'request' library",
   "main": "index.js",
   "scripts": {
