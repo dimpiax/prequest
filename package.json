@@ -1,0 +1,35 @@
+{
+  "name": "prequest-lite",
+  "version": "0.0.1",
+  "description": "promised 'request' library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimpiax/prequest.git"
+  },
+  "keywords": [
+    "request",
+    "node",
+    "es6",
+    "async",
+    "await",
+    "flowtype",
+    "promise"
+  ],
+  "author": "Dima Pilipenko <dimpiax@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimpiax/prequest/issues"
+  },
+  "homepage": "https://github.com/dimpiax/prequest#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.2.0"
+  },
+  "dependencies": {
+    "request": "2.80.0"
+  }
+}
